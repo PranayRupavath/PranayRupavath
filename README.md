@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PranayRupavath
 - 👀 I’m interested in developing websites that inspire 
 - 🌱 I’m currently learning how to create websites 
-- 💞️ I’m looking to collaborate on nowhere
 - 📫 How to reach me: my gmail:rupavathpranay1313@gmail.com
 
 <!---
