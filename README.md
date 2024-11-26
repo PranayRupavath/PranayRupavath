@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranayRupavath
 - 👀 I’m interested in developing websites that inspire 
 - 🌱 I’m currently learning how to create websites 
-- 📫 How to reach me: my gmail:rupavathpranay1313@gmail.com
+- 📫 my gmail:rupavathpranay1313@gmail.com
 
 <!---
 PranayRupavath/PranayRupavath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
